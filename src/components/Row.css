@@ -134,10 +134,6 @@
    }
  }
  
- .swiper-pagination {
-   text-align: right !important;
- }
- 
  .swiper-pagination-bullet {
    background: gray !important;
    opacity: 1 !important;
